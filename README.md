@@ -6,6 +6,7 @@ All recommender systems have 2 components:
 <ul>
 	<li> Users
 	<li> Items (in this case, Movies)
+</ul>
 
 <b>Main Objective:</b> Filter and predict the movies that the user is most likely to watch.
 
